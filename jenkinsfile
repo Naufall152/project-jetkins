@@ -3,7 +3,7 @@ pipeline {
     stages {
         stage('Hello') {
             steps {
-                echo 'ini kelompok 7'
+                echo 'hello world'
             }
         }
     }
